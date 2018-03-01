@@ -1,7 +1,7 @@
 {
-  "name": "node-glob-dry-run",
+  "name": "glob-dry-run",
   "version": "0.0.0",
-  "description": "Dry running tool for node-glob",
+  "description": "Dry run some glob logics",
   "main": "index.js",
   "scripts": {
     "prettier": "$(npm bin)/prettier --write '{index,cli}.js'",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kjirou/node-glob-dry-run.git"
+    "url": "git+https://github.com/kjirou/glob-dry-run.git"
   },
   "author": "kjirou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kjirou/node-glob-dry-run/issues"
+    "url": "https://github.com/kjirou/glob-dry-run/issues"
   },
-  "homepage": "https://github.com/kjirou/node-glob-dry-run#readme",
+  "homepage": "https://github.com/kjirou/glob-dry-run#readme",
   "bin": {
-    "node-glob-dry-run": "cli.js"
+    "glob-dry-run": "cli.js"
   },
   "devDependencies": {
     "prettier": "^1.10.2"

@@ -1,2 +1,3 @@
-# node-glob-dry-run
-Dry running tool for node-glob
+# glob-dry-run
+
+Dry run some glob logics
